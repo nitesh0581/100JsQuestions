@@ -19,4 +19,4 @@ var lengthOfLongestSubstring = function(s) {
         } 
     }
     return maxCount; 
-};
+}; 
