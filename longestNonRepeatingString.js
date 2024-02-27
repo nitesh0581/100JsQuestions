@@ -14,9 +14,9 @@ var lengthOfLongestSubstring = function(s) {
                 count++;
                 if(count>maxCount){
                     maxCount=count;
-                }
+                } 
             } 
         }
     }
     return maxCount; 
-}; 
+};  
