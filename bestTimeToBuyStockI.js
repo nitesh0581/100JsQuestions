@@ -7,6 +7,3 @@ var maxProfit = function(prices) {
     } 
     return maxProfit;
 };
-// prices=[7,1,5,3,6,4]
-// min-7 =>7,1,1,1,1,1
-// max-0 =>0,0,4,4,5,5
