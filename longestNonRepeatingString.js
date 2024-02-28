@@ -1,5 +1,4 @@
 var lengthOfLongestSubstring = function(s) {
-
     const set=new Set();
     let count=0;
     let maxCount=0;
@@ -19,4 +18,4 @@ var lengthOfLongestSubstring = function(s) {
         }
     }
     return maxCount; 
-};  
+}; 
