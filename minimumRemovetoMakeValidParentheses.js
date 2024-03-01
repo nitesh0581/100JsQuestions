@@ -17,4 +17,4 @@ var minRemoveToMakeValid = function(s) {
         ansStr[ind]="";
     }
     return ansStr.join("");
-}; 
+};  
