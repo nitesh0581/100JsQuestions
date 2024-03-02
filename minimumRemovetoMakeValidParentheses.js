@@ -13,7 +13,7 @@ var minRemoveToMakeValid = function(s) {
         }
     }
     for(let i=0; i<stack.length; i++){
-        let ind=stack[i];
+        let ind=stack[i]; 
         ansStr[ind]="";
     }
     return ansStr.join("");
