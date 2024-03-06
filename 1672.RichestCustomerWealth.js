@@ -11,4 +11,4 @@ var maximumWealth = function(accounts) {
     }
     return max; 
 };
-//q: https://leetcode.com/problems/richest-customer-wealth/ 
+//q: https://leetcode.com/problems/richest-customer-wealth/  
