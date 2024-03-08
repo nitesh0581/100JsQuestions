@@ -13,4 +13,4 @@ var sumIndicesWithKSetBits = function(nums, k) {
         }
     }
     return sum;
-};
+}; 
