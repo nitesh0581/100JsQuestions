@@ -24,6 +24,6 @@ var hasGroupsSizeX = function(deck) {
             if(find){
                return true
             }
-    }
+    } 
     return false;
 };
