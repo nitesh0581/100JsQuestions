@@ -16,7 +16,7 @@ var hasGroupsSizeX = function(deck) {
     for(let i=minValue; i>=2; i--){
         let find=true;
             for(let j=0; j<arr.length; j++){
-                if(arr[j]%i!=0){
+                if(arr[j]%i!=0){ 
                     find=false;
                     break;
                 }
