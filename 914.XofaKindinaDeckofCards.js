@@ -26,4 +26,4 @@ var hasGroupsSizeX = function(deck) {
             }
     } 
     return false;
-};
+}; 
