@@ -1,4 +1,4 @@
-1365. How Many Numbers Are Smaller Than the Current Number
+//Q: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 
 var smallerNumbersThanCurrent = function(nums) {
     const result=[];
