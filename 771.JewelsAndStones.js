@@ -9,3 +9,4 @@ var numJewelsInStones = function(jewels, stones) {
     }
     return count;
 };
+//Q: https://leetcode.com/problems/jewels-and-stones/
