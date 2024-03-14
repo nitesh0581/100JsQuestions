@@ -6,5 +6,5 @@ var maxProfit = function(prices) {
             sum+=prices[i+1]-prices[i];
         }
     }
-    return sum;
-};
+    return sum; 
+};  
