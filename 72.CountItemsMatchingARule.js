@@ -10,4 +10,6 @@ var countMatches = function(items, ruleKey, ruleValue) {
     const result=items.filter((elem)=>elem[index]==ruleValue);
     return result.length;
 };
-//Q: https://leetcode.com/problems/count-items-matching-a-rule/
+//Q: https://leetcode.com/problems/count-items-matching-a-rule/    
+//
+//
