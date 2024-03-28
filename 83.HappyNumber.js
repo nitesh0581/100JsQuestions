@@ -12,4 +12,4 @@ var isHappy = function(n) {
         }
         return n==1;
 };
-//Q: https://leetcode.com/problems/happy-number
+//Q: https://leetcode.com/problems/happy-number 
