@@ -1,5 +1,5 @@
 var removeDuplicates = function(nums) {
-    let n=nums.length;
+    let n=nums.length; 
     let j=2;
     //we need to check element should not occur more than 2 times so we will start from i=2 bcoz i=0 & i=1 can be same or diff (there count is not more than 2)
     for(let i=2; i<n; i++){
