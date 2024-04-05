@@ -10,6 +10,6 @@ var removeDuplicates = function(nums) {
         }
         // console.log(nums);
     }
-    return j;
+    return j; 
 }
 //Q: https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/    
